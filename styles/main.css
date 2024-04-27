@@ -183,11 +183,6 @@ th, td {
     text-align: left;
 }
 
-th {
-    background-color: #800000;
-    color: white;
-}
-
 /* Class for adding border above and below the first row */
 .first-row {
     border-top: 2px solid #800000;
