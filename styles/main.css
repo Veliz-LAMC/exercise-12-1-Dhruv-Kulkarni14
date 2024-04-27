@@ -202,3 +202,6 @@ border-top: 2px solid #800000;
 .merged-cell {
 	border-bottom: 2px solid #800000;
 }
+tfoot {
+    text-align: right; /* Align content to the right */
+}
