@@ -196,8 +196,6 @@ th, td {
 
 /* Class for adding border below the sales row in the footer */
 .savings-row-border {
-    border-bottom: 2px solid #800000;
-}
-.merged-cell {
+border-top: 2px solid #800000;
     border-bottom: 2px solid #800000;
 }
