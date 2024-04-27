@@ -206,3 +206,6 @@ border-top: 2px solid #800000;
 tfoot {
     text-align: right; /* Align content to the right */
 }
+thead {
+	text-align: left;
+}
