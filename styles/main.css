@@ -170,4 +170,36 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-table {border-collapse: collapse; }
+/* Styles for the table and headings */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-top: 2px solid #800000; /* Add border above the table */
+    border-bottom: 2px solid #800000; /* Add border below the table */
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #800000;
+    color: white;
+}
+
+/* Class for adding border above and below the first row */
+.first-row {
+    border-top: 2px solid #800000;
+    border-bottom: 2px solid #800000;
+}
+
+/* Class for adding border above the table's footer */
+.footer-top-border {
+    border-top: 2px solid #800000;
+}
+
+/* Class for adding border below the sales row in the footer */
+.savings-row-border {
+    border-bottom: 2px solid #800000;
+}
