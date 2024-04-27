@@ -170,3 +170,6 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+table td.year {
+    vertical-align: middle;
+}
