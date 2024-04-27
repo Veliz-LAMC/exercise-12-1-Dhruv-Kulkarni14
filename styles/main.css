@@ -199,3 +199,6 @@ th, td {
 border-top: 2px solid #800000;
     border-bottom: 2px solid #800000;
 }
+.merged-cell {
+	border-bottom: 2px solid #800000;
+}
