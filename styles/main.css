@@ -209,3 +209,6 @@ tfoot {
 thead {
 	text-align: left;
 }
+.special-left {
+	text-align left;
+}
