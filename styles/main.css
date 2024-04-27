@@ -198,3 +198,6 @@ th, td {
 .savings-row-border {
     border-bottom: 2px solid #800000;
 }
+.merged-cell {
+    border-bottom: 2px solid #800000;
+}
